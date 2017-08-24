@@ -1,4 +1,4 @@
-FROM node:6.9.4
+FROM node:8.1.4
 
 MAINTAINER Tim Officer "timothyofficer@gmail.com"
 
